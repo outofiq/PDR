@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">PDR_2</string>
+
+    <string name="gcj02_location">GCJ02定位经纬度: %1$.6f, %2$.6f</string>
+    <string name="ENU_location">ENU坐标: %1$.6f, %2$.6f, %3$.6f</string>
+    <string name="gcj02_PreLocation">GCJ02预测经纬度: "%.6f","%.6f"</string>
+
+    ///clean按钮
+    <string name="averageGravity_clean">平均重力值: </string>
+    <string name="StartYaw_clean">初始航向角: </string>
+    <string name="gcj02_location_clean">GCJ02定位经纬度: </string>
+    <string name="gcj02_PreLocation_clean">GCJ02预测经纬度: </string>
+    <string name="ENU_Location_clean">ENU坐标: </string>
+    <string name="ms_clean">毫秒: </string>
+    <string name="ns_clean">纳秒: </string>
+    <string name="GYR_Yaw_clean">陀螺仪yaw: </string>
+    <string name="MAG_Yaw_clean">磁力计yaw: </string>
+    <string name="ACC_z_clean">加速度计z轴值: </string>
+    <string name="acc_filter_clean">滤波值: </string>
+    <string name="extreme_type_clean">极值类型: </string>
+    <string name="pv_type_clean">峰谷值类型: </string>
+    <string name="peak_mean_clean">PeakMean: </string>
+    <string name="valley_mean_clean">ValleyMean: </string>
+    <string name="peak_msd_clean">PeakMSD: </string>
+    <string name="valley_msd_clean">ValleyMSD: </string>
+    <string name="peak_clean">Peak: </string>
+    <string name="valley_clean">Valley: </string>
+    <string name="delta_time_clean">本步间隔时间: </string>
+    <string name="last_delta_time_clean">上步间隔时间: </string>
+    <string name="step_num_clean">步数: </string>
+    <string name="step_length_clean">步长: </string>
+
+    //Gravity
+    <string name="average_gravity_value">平均重力值: %s</string>
+
+    //progress_dialog_layout.xml
+    <string name="progress_dialog_layout">获取平均重力中，请保持手机水平稳定</string>
+    <string name="get_gravity">获取平均重力中，请保持手机水平稳定</string>
+    <string name="get_yaw">获取初始航向中</string>
+
+    //record
+    <string name="ns_text">ns: %d</string>
+    <string name="ms_text">ms: %d</string>
+    <string name="acc_z">加速度计z轴值: %.6f</string>
+    <string name="accFilterText">滤波值: %.6f</string>
+    <string name="trueLatLonText">GCJ02定位经纬度: %.6f, %.6f</string>
+    <string name="yawMagText">改正后航向角: %.6f</string>
+    <string name="ENUText">ENU: %.6f, %.6f, %.6f</string>
+    <string name="preLatLonText">GCJ02预测经纬度: %.6f, %.6f</string>
+    <string name="stepNumText">步数: %d</string>
+    <string name="stepLengthText">步长: %.6f</string>
+    <string name="yawGyroText">陀螺仪航向角: %.6f</string>
+
+    //StepDetect
+    <string name="peakMeanText">PeakMean: %.6f</string>
+    <string name="valleyMeanText">ValleyMean: %.6f</string>
+    <string name="peakMSDText">PeakMSD: %.6f</string>
+    <string name="valleyMSDText">ValleyMSD: %.6f</string>
+    <string name="peakText">Peak: %.6f</string>
+    <string name="valleyText">Valley: %.6f</string>
+    <string name="deltaTimeText">本步间隔时间: %.6f</string>
+    <string name="lastDeltaTimeText">上步间隔时间: %.6f</string>
+
+    //Yaw
+    <string name="yawText">初始航向角: %.6f</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
